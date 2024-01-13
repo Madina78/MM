@@ -200,9 +200,9 @@ button:hover {
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Evente</h3>
+      <h3>MM</h3>
   
-      <p>Evente - L'expertise pour tous vos événements, publics et professionnels</p>
+      <p>MM - L'expertise </p>
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -212,7 +212,7 @@ button:hover {
       </div>
 
       <div class="copyright">
-        &copy; Copyright <strong><span>Evente</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>MM</span></strong>. All Rights Reserved
       </div>
    
       <div class="credits">

@@ -15,12 +15,12 @@ body {
   }
   
   a {
-    color: #006fbe;
+    color:#e69f49;
     text-decoration: none;
   }
   
   a:hover {
-    color: #008df1;
+    color: #e69f49;
     text-decoration: none;
   }
   
@@ -43,7 +43,7 @@ body {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #006fbe;
+    background:#e69f49;
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -57,7 +57,7 @@ body {
   }
   
   .back-to-top:hover {
-    background: #0087e7;
+    background:#e69f49;
     color: #fff;
   }
   
@@ -125,7 +125,7 @@ body {
     font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 500;
-    color: #2b3c6f;
+    color: #e69f49;
     white-space: nowrap;
     transition: 0.3s;
   }
@@ -141,7 +141,7 @@ body {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #006fbe;
+    color: #e69f49;
   }
   
   .navbar .dropdown ul {
@@ -177,7 +177,7 @@ body {
   .navbar .dropdown ul a:hover,
   .navbar .dropdown ul .active:hover,
   .navbar .dropdown ul li:hover>a {
-    color: #006fbe;
+    color: #e69f49;
   }
   
   .navbar .dropdown:hover>ul {
@@ -213,7 +213,7 @@ body {
   * Mobile Navigation 
   */
   .mobile-nav-toggle {
-    color: #24325d;
+    color:#e69f49;
     font-size: 28px;
     cursor: pointer;
     display: none;
@@ -276,7 +276,7 @@ body {
   .navbar-mobile a:hover,
   .navbar-mobile .active,
   .navbar-mobile li:hover>a {
-    color: #006fbe;
+    color: #e69f49;
   }
   
   .navbar-mobile .getstarted,
@@ -311,7 +311,7 @@ body {
   .navbar-mobile .dropdown ul a:hover,
   .navbar-mobile .dropdown ul .active:hover,
   .navbar-mobile .dropdown ul li:hover>a {
-    color: #006fbe;
+    color: #e69f49;
   }
   
   .navbar-mobile .dropdown>.dropdown-active {
@@ -321,7 +321,7 @@ body {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-    background: #1d284b;
+    background:#e69f49;
     color: #fff;
     font-size: 14px;
     text-align: center;
@@ -352,7 +352,7 @@ body {
   #footer .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #006fbe;
+    background: #e69f49;
     color: #fff;
     line-height: 1;
     padding: 8px 0;
@@ -365,7 +365,7 @@ body {
   }
   
   #footer .social-links a:hover {
-    background: #007ed8;
+    background: #e69f49;
     color: #fff;
     text-decoration: none;
   }
@@ -379,26 +379,26 @@ body {
   }
   
   #footer .credits a {
-    color: #006fbe;
+    color:#e69f49;
     transition: 0.3s;
   }
   
   #footer .credits a:hover {
-    color: #008df1;
+    color:#e69f49;
   }
   /*******************forms*************/
   #main {
     text-align: center;
     margin: 50px auto;
     padding: 20px;
-    border: 2px solid #3498db;
+    border: 2px solid #e69f49;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(52, 152, 219, 0.7);
+    box-shadow: 0 0 10px #e69f49;
     width: 30%; 
   }
 
   h2 {
-    color: #3498db;
+    color: #e69f49;
   }
 
   label {
@@ -414,7 +414,7 @@ body {
   }
 
   button {
-    background-color: #3498db;
+    background-color: #e69f49;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -423,5 +423,5 @@ body {
   }
 
   button:hover {
-    background-color: #2980b9;
+    background-color: #e69f49;
   }  
